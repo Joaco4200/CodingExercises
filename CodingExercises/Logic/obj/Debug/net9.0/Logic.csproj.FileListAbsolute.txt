@@ -1,0 +1,11 @@
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.AssemblyInfoInputs.cache
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.AssemblyInfo.cs
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.csproj.CoreCompileInputs.cache
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/bin/Debug/net9.0/Logic.deps.json
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/bin/Debug/net9.0/Logic.dll
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/bin/Debug/net9.0/Logic.pdb
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.dll
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/refint/Logic.dll
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.pdb
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/ref/Logic.dll
