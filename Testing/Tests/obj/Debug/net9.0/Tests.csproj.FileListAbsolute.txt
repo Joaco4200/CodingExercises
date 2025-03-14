@@ -99,3 +99,4 @@
 /Users/joaquinscarone/Documents/Proyects2025/CodingExercises/Testing/Tests/obj/Debug/net9.0/Tests.pdb
 /Users/joaquinscarone/Documents/Proyects2025/CodingExercises/Testing/Tests/obj/Debug/net9.0/Tests.genruntimeconfig.cache
 /Users/joaquinscarone/Documents/Proyects2025/CodingExercises/Testing/Tests/obj/Debug/net9.0/ref/Tests.dll
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/Testing/Tests/obj/Debug/net9.0/Tests.sourcelink.json
