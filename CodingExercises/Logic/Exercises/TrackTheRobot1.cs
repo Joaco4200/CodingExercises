@@ -1,7 +1,7 @@
 ﻿namespace Logic;
 
-public class TrackTheRobot
-{
+//A robot has been given a list of movement instructions. Each instruction is either left, right, up or down, followed by a distance to move. The robot starts at [0, 0]. You want to calculate where the robot will end up and return its final position as an array.
+public class TrackTheRobot{
     public static int[] TrackRobot(string[] instructions){
         int x=0;
         int y=0;

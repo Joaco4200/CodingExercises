@@ -9,3 +9,4 @@
 /Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/refint/Logic.dll
 /Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.pdb
 /Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/ref/Logic.dll
+/Users/joaquinscarone/Documents/Proyects2025/CodingExercises/CodingExercises/Logic/obj/Debug/net9.0/Logic.sourcelink.json
