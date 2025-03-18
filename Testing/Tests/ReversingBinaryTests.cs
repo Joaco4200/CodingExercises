@@ -4,7 +4,7 @@ using Logic;
 
 public class ReversingBinaryTests{
     [Fact]
-    public void expectedOutput(){
+    public void expectedoutPut(){
         var result= ReversingBinary.ReverseNumber(10);
         Assert.Equal(5  , result);
     }
